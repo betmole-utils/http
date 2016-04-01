@@ -1,0 +1,20 @@
+{
+  "name": "http",
+  "version": "0.0.1",
+  "description": "A lightweight ES6 library for AJAX requests.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/betmole-utils/http.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/betmole-utils/http/issues"
+  },
+  "homepage": "https://github.com/betmole-utils/http#readme"
+}
