@@ -16,5 +16,6 @@
   "bugs": {
     "url": "https://github.com/betmole-utils/http/issues"
   },
-  "homepage": "https://github.com/betmole-utils/http#readme"
+  "homepage": "https://github.com/betmole-utils/http#readme",
+  "dependencies": {}
 }
